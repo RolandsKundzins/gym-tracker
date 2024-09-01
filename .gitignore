@@ -8,11 +8,6 @@ __pycache__/
 
 # Virtual environment
 venv/
-env/
-ENV/
-.venv/
-.pyenv/
-envgymtracker/
 
 # Django stuff:
 *.log
